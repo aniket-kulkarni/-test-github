@@ -25,7 +25,7 @@ public class GymExerciser implements Exerciser {
 
     public void doWarmUp()
     {
-        System.out.println("Warming Up!!!");
+        System.out.println("Warming Up!!! Brisk walk on a TradeMill for 5 mins");
     }
 
     public void doCoolDown()
@@ -34,6 +34,7 @@ public class GymExerciser implements Exerciser {
     }
 
     public void doExercise() {
-        System.out.println("Doing GYM."+weight+" Kgs. CLang and BanG!!!");
+        System.out.println("Doing GYM."+weight+" Kgs. CLang and BanG!!!!");
+        System.out.println("Ready for more!!");
     }
 }

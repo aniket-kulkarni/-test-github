@@ -12,12 +12,12 @@ public class AerobicsExerciser implements Exerciser {
 
     public void doWarmUp()
     {
-        System.out.println("Warming Up!!!");
+        System.out.println("Warming Up!!! Initial dance");
     }
 
     public void doCoolDown()
     {
-        System.out.println("Cooling Down!!!!");
+        System.out.println("Cooling Down!!!!Streching exercises");
     }
 
     public void doExercise()
